@@ -85,7 +85,7 @@
 | [📈 Financial Reporting & Analysis](https://github.com/rishabh8942/Financial-Reporting-And-Analysis-Suite) | Power BI · DAX | Full P&L suite with drill-down by region, product & time period |
 | [🐦 Twitter Stock Market Analysis](https://github.com/rishabh8942/Twitter-Stock-Market-Analysis) | Python · Jupyter | Sentiment analysis cross-referenced with stock market movement |
 | [🏠 House Price Prediction](https://github.com/rishabh8942/House-Prediction-Analysis-) | Python · ML · Jupyter | Regression-based house price prediction with EDA |
-| [🍕 Pizza Sales Analysis](https://github.com/rishabh8942/Pizza-Sales) | SQL | Revenue trends, best-sellers & peak hour analysis using SQL |
+| [🎬 Movie Rental EDA — SQL Exploratory Data Analysis](https://github.com/rishabh8942/movie-rental-eda#-movie-rental-eda--sql-exploratory-data-analysis) | SQL | Revenue trends, best-sellers & peak hour analysis using SQL |
 | [🎓 University Database System](https://github.com/rishabh8942/University-Database-Management-System-) | SQL | Normalized DBMS schema design for university management |
 | [👔 HR Database Management](https://github.com/rishabh8942/HR-DATABASE-MANAGEMENT-SYSTEM) | T-SQL | Employee records, department structures & payroll queries |
 
