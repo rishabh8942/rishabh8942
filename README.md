@@ -94,12 +94,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh8942&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh8942&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh8942&theme=tokyonight&hide_border=true" />
 </p>
 
