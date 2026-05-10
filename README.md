@@ -81,9 +81,8 @@
 
 | 🚀 Project | 🛠️ Tech | 📌 Description |
 |---|---|---|
-| [💼 CFO Dashboard — Finance Performance Suite](https://github.com/rishabh8942) | Power BI · DAX · SQL · Excel | End-to-end CFO-ready dashboard tracking P&L, Budget vs Actuals, Working Capital & Department Cost Variance |
-| [🤖 Finance Automation Toolkit](https://github.com/rishabh8942) | Python · SQL · OpenAI API · Excel | Auto-generates weekly MIS packs with AI-powered commentary — saves 4+ hrs/week |
-| [📈 Financial Reporting & Analysis](https://github.com/rishabh8942/Finanicial_Reporting_And_Analysis_PowerBI_) | Power BI · DAX | Full P&L suite with drill-down by region, product & time period |
+| [💼 CFO Dashboard — Finance Performance Suite](https://github.com/rishabh8942/Financial-Reporting-And-Analysis-Suite) | Power BI · DAX · SQL · Excel | End-to-end CFO-ready dashboard tracking P&L, Budget vs Actuals, Working Capital & Department Cost Variance |
+| [📈 Financial Reporting & Analysis](https://github.com/rishabh8942/Financial-Reporting-And-Analysis-Suite) | Power BI · DAX | Full P&L suite with drill-down by region, product & time period |
 | [🐦 Twitter Stock Market Analysis](https://github.com/rishabh8942/Twitter-Stock-Market-Analysis) | Python · Jupyter | Sentiment analysis cross-referenced with stock market movement |
 | [🏠 House Price Prediction](https://github.com/rishabh8942/House-Prediction-Analysis-) | Python · ML · Jupyter | Regression-based house price prediction with EDA |
 | [🍕 Pizza Sales Analysis](https://github.com/rishabh8942/Pizza-Sales) | SQL | Revenue trends, best-sellers & peak hour analysis using SQL |
